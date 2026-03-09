@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/UNIVERSITY_FIRST_SEMESTER(i)/ICT 1402 - Principles of Programme Design and Programming/ICT 1404 TUTORIAL PAPERS/ICT1402_Tutorial_09/tutorial_09_answers/Q_05",
-      "program": "d:/UNIVERSITY_FIRST_SEMESTER(i)/ICT 1402 - Principles of Programme Design and Programming/ICT 1404 TUTORIAL PAPERS/ICT1402_Tutorial_09/tutorial_09_answers/Q_05/build/Debug/outDebug",
+      "cwd": "d:/UNIVERSITY_FIRST_SEMESTER(i)/ICT 1402 - Principles of Programme Design and Programming/ICT 1404 TUTORIAL PAPERS/ICT1402_Tutorial_09/tutorial_09_answers/Q_07",
+      "program": "d:/UNIVERSITY_FIRST_SEMESTER(i)/ICT 1402 - Principles of Programme Design and Programming/ICT 1404 TUTORIAL PAPERS/ICT1402_Tutorial_09/tutorial_09_answers/Q_07/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
