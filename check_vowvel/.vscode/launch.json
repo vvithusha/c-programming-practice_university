@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/UNIVERSITY_FIRST_SEMESTER(i)/ICT 1402 - Principles of Programme Design and Programming/ICT 1404 TUTORIAL PAPERS/ICT1402_Tutorial_09/tutorial_09_answers/Q_14",
+      "program": "d:/UNIVERSITY_FIRST_SEMESTER(i)/ICT 1402 - Principles of Programme Design and Programming/ICT 1404 TUTORIAL PAPERS/ICT1402_Tutorial_09/tutorial_09_answers/Q_14/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
